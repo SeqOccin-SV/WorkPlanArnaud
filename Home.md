@@ -6,4 +6,4 @@ This is a simple wiki for the targets and milestones of the SeqOccin SV projet
 
 * Propose a set of pipelines to detect SVs with garantees
 
-
+test
