@@ -11,5 +11,6 @@ module load bioinfo/trf-v4.09
 module load system/R-3.6.2
 python3 -m venv svvizenv
 source svvizenv/bin/activate
+pip install pysam
 pip install rpy2
 pip install -U git+git://github.com/nspies/svviz2.git
