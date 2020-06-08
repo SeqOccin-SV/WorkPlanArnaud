@@ -6,6 +6,7 @@ https://github.com/nspies/svviz2
 ### environment
 ```
 module load system/Python-3.6.3
+module load bioinfo/bwa-0.7.17
 module load bioinfo/trf-v4.09
 python3 -m venv svvizenv
 source svvizenv/bin/activate
