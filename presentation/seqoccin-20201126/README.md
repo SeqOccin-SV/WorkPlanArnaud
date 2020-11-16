@@ -6,6 +6,8 @@ Détection des variants bovin (15X CLR PacBio) ?
 
 ## Présentation
 
+[Slides](https://docs.google.com/presentation/d/12eUGKtTEzH7sekN2NCyUO0hsS11pTZPQjac4GkF_-2E/edit#slide=id.p1)
+
 ## Point à aborder
 
  - Sensibilité et précision pour la détection de SNP chez l'homme
