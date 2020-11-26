@@ -1,0 +1,15 @@
+Technology	Aligner	Calling	Coverage	Cov_CIGAR	Ref	precision	recall	F-score	# PASS Variants
+CLR	minimap2 (pbmm2)	Longshot	15x	12x					5103883
+CLR	minimap2 (pbmm2)	Longshot	8x	6x					2153626
+CLR	minimap2 (pbmm2)	Longshot	38x	30x					5741255
+CLR	minimap2 (pbmm2)	Longshot	19x	15x					5586461
+CLR	minimap2 (pbmm2)	Longshot	10x	8x					3497762
+HiFi	minimap2 (pbmm2)	DeepVariant	30x	30x					8321237
+HiFi	minimap2 (pbmm2)	DeepVariant	15x	15x					8210723
+HiFi	minimap2 (pbmm2)	DeepVariant	8x	8x					7602905
+HiFi	minimap2 (pbmm2)	DeepVariant	4x	4x					5632564
+ILL	bwa-mem	GATK	30x	28.5x					8444297
+ILL	bwa-mem	DeepVariant	30x	28.5x					8102967
+ILL	bwa-mem	DeepVariant	15x	14.5x	GATK	0.962	0.9117	9362	8014979
+ILL	bwa-mem	DeepVariant	8x	8x					7258189
+ILL	bwa-mem	DeepVariant	4x	4x					5276212

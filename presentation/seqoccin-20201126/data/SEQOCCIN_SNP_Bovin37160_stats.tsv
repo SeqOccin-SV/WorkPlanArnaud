@@ -1,0 +1,27 @@
+Technology	Aligner	Calling	Coverage	Cov_CIGAR	Ref	precision	recall	F-score	# PASS Variants
+CLR	minimap2 (pbmm2)	Longshot	15x	12x					5103883
+CLR	minimap2 (pbmm2)	Longshot	8x	6x					2153626
+CLR	minimap2 (pbmm2)	Longshot	38x	30x	GATK	0.9513	0.6466	0.7699	5741255
+CLR	minimap2 (pbmm2)	Longshot	38x	30x	ILLDV	0.9564	0.6776	0.7932	5741255
+CLR	minimap2 (pbmm2)	Longshot	38x	30x	HiFiDV	0.965	0.666	0.7881	5741255
+CLR	minimap2 (pbmm2)	Longshot	19x	15x	GATK	0.9452	0.6252	0.7526	5586461
+CLR	minimap2 (pbmm2)	Longshot	19x	15x	ILLDV	0.9495	0.6546	0.775	5586461
+CLR	minimap2 (pbmm2)	Longshot	19x	15x	HiFiDV	0.9612	0.6454	0.7723	5586461
+CLR	minimap2 (pbmm2)	Longshot	10x	8x	GATK	0.9254	0.3832	0.542	3497762
+CLR	minimap2 (pbmm2)	Longshot	10x	8x	ILLDV	0.9292	0.4011	0.5603	3497762
+CLR	minimap2 (pbmm2)	Longshot	10x	8x	HiFiDV	0.943	0.3965	0.5582	3497762
+HiFi	minimap2 (pbmm2)	DeepVariant	30x	30x					8321237
+HiFi	minimap2 (pbmm2)	DeepVariant	15x	15x					8210723
+HiFi	minimap2 (pbmm2)	DeepVariant	8x	8x					7602905
+HiFi	minimap2 (pbmm2)	DeepVariant	4x	4x					5632564
+ILL	bwa-mem	GATK	30x	28.5x					8444297
+ILL	bwa-mem	DeepVariant	30x	28.5x					8102967
+ILL	bwa-mem	DeepVariant	15x	14.5x	GATK	0.962	0.9117	0.9362	8014979
+ILL	bwa-mem	DeepVariant	15x	14.5x	ILLDV	0.9782	0.9677	0.973	8014979
+ILL	bwa-mem	DeepVariant	15x	14.5x	HiFiDV	0.9643	0.9303	0.947	8014979
+ILL	bwa-mem	DeepVariant	8x	8x	GATK	0.9364	0.8039	0.8651	7258189
+ILL	bwa-mem	DeepVariant	8x	8x	ILLDV	0.948	0.8494	0.896	7258189
+ILL	bwa-mem	DeepVariant	8x	8x	HiFiDV	0.9385	0.82	0.8753	7258189
+ILL	bwa-mem	DeepVariant	4x	4x	GATK	0.8666	0.5409	0.6661	5276212
+ILL	bwa-mem	DeepVariant	4x	4x	ILLDV	0.8772	0.5713	0.692	5276212
+ILL	bwa-mem	DeepVariant	4x	4x	HiFiDV	0.8705	0.5528	0.6762	5276212

@@ -15,3 +15,14 @@ Détection des variants bovin (15X CLR PacBio) ?
  - Comparaison du nombre de SNPs trouvé chez l'homme (HG002) et le bovin (Génisse2)
  - Comparaison du nombre de SVs trouvé chez l'homme (HG002) et le bovin (Génisse2)
  - Concordance des génotypes
+
+## Compte-rendu
+
+  - Est-ce que le 15x CLR ne contre-balance pas par rapport au 5x Illumina en ayant une couverture plus homogène ?
+    - Attendu: diminution de sensibilité devrait principalement impacté les SNPs hétérozygote en ILL. CLR ?
+      - Vérifier l'évolution des proportions de génotypes
+      - Regarder la distribution de couverture des lectures sur le génome
+  - Clipping et perte de couverture en CLR
+    - du a une absence de la référence, à un problème de qualité ?
+      - comparer les couvertures séquencées vs mappées sur d'autres SMRTCell
+      - Tester d'aligner sur une autre référence (assemblage de l'individu) et observer si la différence est toujours là

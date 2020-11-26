@@ -1,0 +1,4 @@
+Sample	Asked Coverage	Given Genome Size	Total Length	Cigar base mapped	Sequenced Coverage	Mapped coverage
+Trio2-offspring-CLR_GP	8	2870000000	28911035451	22929882879	10.0735	7.9895
+Trio2-offspring-CLR_GP	15	2870000000	54204860546	42986358901	18.8867	14.9778
+Trio2-offspring-CLR_GP	30	2870000000	108528228993	86084384997	37.8147	29.9946

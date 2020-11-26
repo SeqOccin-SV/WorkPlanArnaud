@@ -10,9 +10,28 @@ Bovine benchmark
 
 ### Theme abordé
 
- - Résultats des précédents benchmarks
- - Construction de la v0.3
- - Overlap des variants
- - Variants trouvé par une seule technologie
-   - Distribution de tailles de variants
-   - Distribution de taux dans l'environnement du variants
+  - Résultats des précédents benchmarks
+  - Construction de la v0.3
+  - Overlap des variants
+  - Variants trouvé par une seule technologie
+    - Distribution de tailles de variants
+    - Distribution de taux dans l'environnement du variants
+
+
+## Compte Rendu
+
+  - Discussion sur la mise à disposition des pipelines
+    - Regarder pour réaliser un synchronisation des repo entre github et la forge
+  - Présentation du clustering sur la v0.3
+    - Venn des quantités de variants entre technologies
+    - protocole de clustering
+    - protocole de genotypage
+  - Discussion sur l'utilisation de HapCut2
+    - Combinaison des données SNPs et SVs pour du phasage permettant de valider les variants
+  - Discussion sur la valorisation
+    - Papier sur la caractérisation des variants
+      - Apport des diverses technologies + assemblage
+      - Apport du génotypage
+      - Comparer les problèmatiques d'assemblage à la détection de variants
+      - SV par rapport à la géographie du génome (elements répétés, télomères, centromères, ?)
+
