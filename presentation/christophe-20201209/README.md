@@ -20,3 +20,22 @@ Valorisation
     - Cartographie du genome
     - Lien variant/assemblage
     - "Diplotyping" Ebler et al. 2019 
+
+### Compte Rendu
+
+  - Retour sur Bilan Bovin 20201208
+    - Projet de regrouper connaissances Inter Equipe / espèces
+    - Quel seraient les besoins pour un pipeline variant calling CLR ?
+  - Retour SNP Calling
+    - Densité des SNPs > tous variants et variants homozygotes
+    - L'objectif des variants détectés lié à l'imputation
+    - Importance des Indels ?
+    - Precision du calling des Indels et importance de les inclure dans l'analyse
+  - Genotypage
+    - Attendre la fin du pipeline et comparer les résultats svviz à SVJedi
+  - Valorisation
+    - Avancer sur la production des régions de confiance
+    - Comparer avec les éléments analysés dans Ebler et al. 2019
+  - Prochaine fois
+    - Philippe présente pipeline petits variants et regroupement des individus
+    - Avancée production régions de confiance
