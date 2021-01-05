@@ -38,7 +38,7 @@ Avancée du projet depuis AG virtuel été 2020
 - Adapting the protocol for the detection of variants in bovine (results)
 - Variant detection with sparse sequencing (example of Maïze)
 - Computer cost (running time) different techno and species ?
-- We provide pipelines for the detection of variants using short and long reads
+- We provide pipelines for the detection of variants (SNP and SV) using short and long reads
 
 
 
