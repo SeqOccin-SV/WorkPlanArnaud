@@ -34,7 +34,7 @@ Avancée du projet depuis AG virtuel été 2020
 
 ### Results
 
-- Recall and precision of variant detection with different techno and different sequencing depth, first SNP and then SV in human (particular focus on CLR and it’s - ability to detect variants at different seq depth (SNP, indels and SV))
+- Recall and precision of variant detection with different techno and different sequencing depth, first SNP and then SV in human (particular focus on CLR and it’s ability to detect variants at different seq depth (SNP, indels and SV))
 - Adapting the protocol for the detection of variants in bovine (results)
 - Variant detection with sparse sequencing (example of Maïze)
 - Computer cost (running time) different techno and species ?
