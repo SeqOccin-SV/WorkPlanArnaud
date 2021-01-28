@@ -1,0 +1,18 @@
+Technology	Aligner	Calling	Coverage	Cov_CIGAR	precision	recall	F-score	# PASS Variants
+CLR	minimap2 (pbmm2)	Longshot	28x	26x	0.9852	0.982	0.9836	3960209
+CLR	minimap2 (pbmm2)	Longshot geno	28x	26x	0.9997	0.9903	0.995	3069598
+CLR	minimap2 (pbmm2)	NanoCaller	28x	26x				
+CLR	minimap2 (pbmm2)	Longshot	14x	13x	0.971	0.8924	0.9301	3575731
+CLR	minimap2 (pbmm2)	NanoCaller	28x	26x				
+CLR	minimap2 (pbmm2)	Longshot	7x	6.5x	0.9418	0.4804	0.6363	1938193
+HiFi	minimap2 (pbmm2)	DeepVariant	28.5x	28.5x	0.9963	0.9991	0.9977	4989307
+HiFi	minimap2 (pbmm2)	DeepVariant	14x	14x	0.9955	0.994	0.9947	4899837
+HiFi	minimap2 (pbmm2)	DeepVariant	7x	7x	0.9809	0.9084	0.9432	4433466
+HiFi	minimap2 (pbmm2)	DeepVariant	4x	4x	0.9228	0.644	0.7586	3265902
+ILL	bwa-mem	DeepVariant	30x	12x				4560168
+ILL	bwa-mem	DeepVariant	15x	6x				3792092
+ILL	bwa-mem	DeepVariant	8x	3x				2373503
+ILL	bwa-mem	DeepVariant	30x	30x	0.9992	0.9994	0.9993	4736033
+ILL	bwa-mem	DeepVariant	15x	15x	0.9953	0.9917	0.9935	4649570
+ILL	bwa-mem	DeepVariant	8x	8x	0.9778	0.9162	0.946	4254031
+ILL	bwa-mem	DeepVariant	4x	4x	0.9212	0.6506	0.7626	3104014
