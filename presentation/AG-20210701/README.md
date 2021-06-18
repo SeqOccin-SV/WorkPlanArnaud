@@ -35,7 +35,9 @@ Avancée du projet depuis AG virtuel été 2020
 
 #### Maïs
 
- | comparaison d'assemblage | /work/project/seqoccin/svdetection/Maize_assembly_comp/ |
- | resultats SV | /work/project/seqoccin/svdetection/results/zea_mays/ |
- | SV HiFi 4 lines | /work/project/seqoccin/svdetection/pacbio/zea_mays/pacbiosv_HiFi/test_regions/merged_test.vcf.gz |
- | SNPs 4 lines | /work/project/seqoccin/svdetection/SNP/zea_mais/All/HiFi/Maize_HIFI_DV_GLNEXUSMerge.vcf.gz |
+Topic | Path
+------|-----
+comparaison d'assemblage | /work/project/seqoccin/svdetection/Maize_assembly_comp/
+resultats SV | /work/project/seqoccin/svdetection/results/zea_mays/
+SV HiFi 4 lines | /work/project/seqoccin/svdetection/pacbio/zea_mays/pacbiosv_HiFi/test_regions/merged_test.vcf.gz
+SNPs 4 lines | /work/project/seqoccin/svdetection/SNP/zea_mais/All/HiFi/Maize_HIFI_DV_GLNEXUSMerge.vcf.gz
