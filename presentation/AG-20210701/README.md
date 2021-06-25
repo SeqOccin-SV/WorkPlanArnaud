@@ -4,9 +4,11 @@
 
 Avancée du projet depuis AG virtuel été 2020
 
-## Présentation
+## Présentations
 
-[Slides](https://docs.google.com/presentation/d/11jJx_vE_3s8kOf7bPFWPbXSi_EZwx7JanRsGpVA6NOI/edit#slide=id.gb35a430bc9_0_0)
+SVs - [Slides](https://docs.google.com/presentation/d/11jJx_vE_3s8kOf7bPFWPbXSi_EZwx7JanRsGpVA6NOI/edit#slide=id.gb35a430bc9_0_0)
+SNPs - [Slides](https://docs.google.com/presentation/d/1i4aLOG79Rjgb4BLPzurXXhb2pRNkwp1_G-kdRJUZd38/edit#slide=id.gaae743ed78_0_2)
+Haplotyping - [Slides]()
 
 ### Point à aborder
 
